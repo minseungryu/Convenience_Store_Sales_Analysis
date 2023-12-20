@@ -7,7 +7,6 @@
 - Value Trackers 팀 : 류민승, 김신우, 김성원, 한규동
 
 <br>
-</br>
 
 ### Requirements
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
